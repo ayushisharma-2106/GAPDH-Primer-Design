@@ -1,0 +1,50 @@
+Activity 1 – Primer Details
+Title: Virtual Design and Specificity Testing of GAPDH PCR Primers
+
+Target Gene: GAPDH (Glyceraldehyde-3-Phosphate Dehydrogenase)
+Organism: Homo sapiens
+mRNA Accession Number: NM_002046.7
+Chromosome: 12
+
+--------------------------------------------------
+
+Selected Primer Pair: Primer Pair 1
+
+Forward Primer:
+Sequence (5' → 3'): TCGGAGTCAACGGATTTGGT
+Length: 20 bp
+Melting Temperature (Tm): 59.32 °C
+GC Content: 50%
+Template Strand: Plus
+Self Complementarity: 3.0
+3′ Self Complementarity: 1.0
+Start Position: 93
+Stop Position: 112
+
+Reverse Primer:
+Sequence (5' → 3'): TTCCCGTTCTCAGCCTTGAC
+Length: 20 bp
+Melting Temperature (Tm): 59.97 °C
+GC Content: 55%
+Template Strand: Minus
+Self Complementarity: 3.0
+3′ Self Complementarity: 1.0
+Start Position: 273
+Stop Position: 254
+
+--------------------------------------------------
+
+Expected PCR Product Size: 181 bp
+
+--------------------------------------------------
+
+Specificity Statement:
+The designed primer pair specifically amplifies the human GAPDH gene.
+Primer-BLAST analysis shows amplification of GAPDH transcript variants
+with no significant off-target amplification elsewhere in the human genome.
+Therefore, the primer pair is suitable for PCR and qPCR applications.
+
+--------------------------------------------------
+
+Designed using:
+NCBI Primer-BLAST
