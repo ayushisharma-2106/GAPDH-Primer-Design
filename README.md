@@ -68,7 +68,9 @@ Files Included-
 - Primer-BLAST result screenshots
 - Primer sequence and parameter details
 
-[View Result Screenshots](SCREENSHOTS.md)
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/e89c7771-2539-40bf-8d09-6adabb54b7b8" />
+
+<img width="1600" height="922" alt="image" src="https://github.com/user-attachments/assets/0b299ac7-9a19-4bdf-a9e5-3951ebf95761" />
 
 Author:
 Ayushi Sharma
