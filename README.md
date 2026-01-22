@@ -68,6 +68,8 @@ Files Included-
 - Primer-BLAST result screenshots
 - Primer sequence and parameter details
 
+[View Result Screenshots](SCREENSHOTS.md)
+
 Author:
 Ayushi Sharma
 B.Tech Biotechnology (2nd Semester)
